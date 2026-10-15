@@ -1,0 +1,18 @@
+# ShipIt Sunday
+> ShipIt Sunday is a free weekly vibe-coding challenge: every Friday a small app or game idea with a starter template and AI prompt; build it with any AI coding tool over the weekend; submit a live no-login link by Sunday 11:59pm Pacific; featured in Monday's showcase.
+
+## Pages
+- [Home](https://shipitsundayhq.github.io/): what it is and how it works
+- [Challenge #1: One-Button Game](https://shipitsundayhq.github.io/challenges/01-one-button/): Fri Oct 16 – Sun Oct 18, 2026 (PT); rules, starter prompt, stretch goal, how to submit
+- [Showcase](https://shipitsundayhq.github.io/showcase/): featured community entries
+- [About & FAQ](https://shipitsundayhq.github.io/about/): cost (free), allowed tools (any), prizes, sponsorship
+
+## Key facts
+- What is ShipIt Sunday? ShipIt Sunday is a free weekly vibe-coding challenge. Every Friday we post a small app or game idea plus a starter template; you build it over the weekend with an AI coding tool and submit by Sunday night (Pacific Time).
+- Do I need to know how to code? No. The challenges are designed for AI coding tools like Cursor, Claude Code, Bolt, Lovable, v0, Replit or Copilot. A starter prompt is included every week.
+- How much does it cost? Nothing. Entering is free and there are no paid tiers right now.
+- Which AI tools are allowed? Any of them. Most of your project should be AI-written, and libraries such as Three.js or Phaser are fine.
+- How do I submit? Before Sunday 11:59pm PT, either open a submission issue on our GitHub repo with your live link, or post your link on X with #ShipItSunday.
+- Are there prizes? Not cash yet. Every valid entry is featured in Monday's showcase and newsletter, with fun awards like Most Fun and Best Single Prompt.
+- Who owns what I build? You do. By submitting, you let us feature your project's name, link, screenshot and prompt with credit.
+- Can my company sponsor a week? Yes. Sponsors can theme a week around their tool and fund prizes. Use the sponsor contact on the home page.
